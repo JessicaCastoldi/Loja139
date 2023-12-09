@@ -1,0 +1,36 @@
+[
+{
+    "pet_id":1,
+    "pet_name": "Sansa",
+    "status": "available"
+},
+
+{
+    "pet_id":2,
+    "pet_name": "Sansa01",
+    "status": "sold"
+},
+{
+    "pet_id":3,
+    "pet_name": "Sansa02",
+    "status": "pending"
+},
+{
+    "pet_id":4,
+    "pet_name": "Sansa03",
+    "status": "sold"
+},
+{
+    "pet_id":5,
+    "pet_name": 1 ,                                                                        
+    "status": "sold"
+},
+{
+    "pet_id":6,
+    "pet_name": "Sansa05",
+    "status": "abacaxi"
+}
+
+
+
+]
